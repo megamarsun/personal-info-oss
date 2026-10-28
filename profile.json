@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "updated_at": "2026-10-28",
+  "name": "榊正宗",
+  "name_en": "Masamune Sakaki",
+  "birth_year": 1973,
+  "birthplace": "福岡県",
+  "roles": [
+    "小説家",
+    "映像作家",
+    "CGアニメーター",
+    "AIクリエイター"
+  ],
+  "credits": [
+    {
+      "title": "東北ずん子",
+      "role": "企画・原作"
+    },
+    {
+      "title": "ずんだもん",
+      "role": "発案"
+    },
+    {
+      "title": "デルタもん",
+      "role": "デザイン"
+    },
+    {
+      "title": "アイドルマスター U149",
+      "role": "3DCGディレクター"
+    },
+    {
+      "title": "mobile真・三國無双",
+      "role": "開発"
+    },
+    {
+      "title": "朗読少女",
+      "role": "開発"
+    },
+    {
+      "title": "ルパン三世 TVスペシャル",
+      "role": "3DCG（Blender）"
+    }
+  ],
+  "books": [
+    "東北ずん子で覚える! アニメキャラクターモデリング",
+    "社長少女 PRESIDENT GIRL"
+  ],
+  "projects": [
+    "FreePencil2（Blenderアドオン）",
+    "新時代のAI漫画 鋼鉄の花嫁"
+  ],
+  "links": {
+    "website": "https://masamunesakaki.com/",
+    "x": "https://x.com/masamune_sakaki",
+    "note": "https://note.com/megamarsun",
+    "youtube": "https://www.youtube.com/@megamarsun"
+  },
+  "sources": [
+    "https://masamunesakaki.com/",
+    "https://masamunesakaki.com/profile.html",
+    "https://masamunesakaki.com/works.html",
+    "https://masamunesakaki.com/books.html",
+    "https://masamunesakaki.com/links.html"
+  ]
+}
